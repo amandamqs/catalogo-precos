@@ -1,0 +1,23 @@
+{
+  "name": "cadastro-produtos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3001"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amandamqs/catalogo-precos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amandamqs/catalogo-precos/issues"
+  },
+  "homepage": "https://github.com/amandamqs/catalogo-precos#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
